@@ -1,3 +1,4 @@
-# NETMauiLunarPhases
+## .NET MAUI Lunar Phase and Sunrise App
 
-Programita de ejemplo en .NET MAUI en el que puedes ver información sobre la fase lunar actual y la hora del amanecer 
+This example application, built with .NET MAUI, provides information about the current lunar phase and sunrise time.
+
